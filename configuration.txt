@@ -1,0 +1,12 @@
+php.ini
+
+post_max_size=2000M
+
+upload_max_filesize=2000M
+
+max_file_uploads=200
+
+max_execution_time=3000
+
+after doing that restart the xampp
+
